@@ -4,3 +4,12 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org)
  ![resim1](https://github.com/murattkoc/kodluyoruzilkrepo/blob/fbb30e56a8e1e73bb0846e80caa1e31f6ff75b40/Untitled.png)
  # Installation
 ` git clone https://github.com/murattkoc/kodluyoruzilkrepo.git `
+# Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Linux için:
+`cd kodluyoruzilkrepo
+code .`
+ # Contributing
+ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+ # License
+ [MIT](https://choosealicense.com/licenses/mit/)
