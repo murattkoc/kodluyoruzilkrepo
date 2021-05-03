@@ -8,6 +8,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org)
 ` git clone https://github.com/murattkoc/kodluyoruzilkrepo.git `
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
 Linux için:
 `cd kodluyoruzilkrepo
 code .`
